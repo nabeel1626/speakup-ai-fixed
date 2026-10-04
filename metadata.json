@@ -1,0 +1,7 @@
+{
+  "name": "SpeakUp AI - AI Voice Mock Interviewer for Technical Roles",
+  "description": "Practice role-specific technical questions aloud. Get scored on a 5-dimension rubric in real time with acoustic low-latency voice telemetry.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
